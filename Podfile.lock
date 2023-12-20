@@ -1,0 +1,131 @@
+PODS:
+  - Alamofire (4.7.3)
+  - ChameleonFramework/Default (2.1.0)
+  - ChameleonFramework/Swift (2.1.0):
+    - ChameleonFramework/Default
+  - Firebase/AdMob (5.9.0):
+    - Firebase/Core
+    - Google-Mobile-Ads-SDK (~> 7.33)
+  - Firebase/Core (5.9.0):
+    - Firebase/CoreOnly
+    - FirebaseAnalytics (= 5.2.0)
+  - Firebase/CoreOnly (5.9.0):
+    - FirebaseCore (= 5.1.4)
+  - FirebaseAnalytics (5.2.0):
+    - FirebaseCore (~> 5.1)
+    - FirebaseInstanceID (~> 3.2)
+    - GoogleAppMeasurement (~> 5.2)
+    - GoogleUtilities/AppDelegateSwizzler (~> 5.2)
+    - GoogleUtilities/MethodSwizzler (~> 5.2)
+    - GoogleUtilities/Network (~> 5.2)
+    - "GoogleUtilities/NSData+zlib (~> 5.2)"
+    - nanopb (~> 0.3)
+  - FirebaseCore (5.1.4):
+    - GoogleUtilities/Logger (~> 5.2)
+  - FirebaseInstanceID (3.2.2):
+    - FirebaseCore (~> 5.1)
+    - GoogleUtilities/Environment (~> 5.3)
+    - GoogleUtilities/UserDefaults (~> 5.3)
+  - Google-Mobile-Ads-SDK (7.34.0)
+  - GoogleAppMeasurement (5.2.0):
+    - GoogleUtilities/AppDelegateSwizzler (~> 5.2)
+    - GoogleUtilities/MethodSwizzler (~> 5.2)
+    - GoogleUtilities/Network (~> 5.2)
+    - "GoogleUtilities/NSData+zlib (~> 5.2)"
+    - nanopb (~> 0.3)
+  - GoogleUtilities/AppDelegateSwizzler (5.3.0):
+    - GoogleUtilities/Environment
+    - GoogleUtilities/Logger
+    - GoogleUtilities/Network
+  - GoogleUtilities/Environment (5.3.0)
+  - GoogleUtilities/Logger (5.3.0):
+    - GoogleUtilities/Environment
+  - GoogleUtilities/MethodSwizzler (5.3.0):
+    - GoogleUtilities/Logger
+  - GoogleUtilities/Network (5.3.0):
+    - GoogleUtilities/Logger
+    - "GoogleUtilities/NSData+zlib"
+    - GoogleUtilities/Reachability
+  - "GoogleUtilities/NSData+zlib (5.3.0)"
+  - GoogleUtilities/Reachability (5.3.0):
+    - GoogleUtilities/Logger
+  - GoogleUtilities/UserDefaults (5.3.0):
+    - GoogleUtilities/Logger
+  - IQKeyboardManagerSwift (6.1.1)
+  - MapleBacon (5.2)
+  - MobileVLCKit (3.1.4)
+  - nanopb (0.3.8):
+    - nanopb/decode (= 0.3.8)
+    - nanopb/encode (= 0.3.8)
+  - nanopb/decode (0.3.8)
+  - nanopb/encode (0.3.8)
+  - SwiftSpinner (1.6.2)
+  - SwiftyJSON (4.1.0)
+
+DEPENDENCIES:
+  - Alamofire
+  - ChameleonFramework/Swift (from `https://github.com/atacand1920/Chameleon.git`)
+  - Firebase/AdMob
+  - Firebase/Core
+  - IQKeyboardManagerSwift (>= 6.0.4)
+  - MapleBacon (from `https://github.com/JanGorman/MapleBacon`, branch `swift/4.2`)
+  - MobileVLCKit
+  - SwiftSpinner (= 1.6.2)
+  - SwiftyJSON (from `https://github.com/SwiftyJSON/SwiftyJSON`, branch `xcode10.0`)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Alamofire
+    - Firebase
+    - FirebaseAnalytics
+    - FirebaseCore
+    - FirebaseInstanceID
+    - Google-Mobile-Ads-SDK
+    - GoogleAppMeasurement
+    - GoogleUtilities
+    - IQKeyboardManagerSwift
+    - MobileVLCKit
+    - nanopb
+    - SwiftSpinner
+
+EXTERNAL SOURCES:
+  ChameleonFramework:
+    :git: https://github.com/atacand1920/Chameleon.git
+  MapleBacon:
+    :branch: swift/4.2
+    :git: https://github.com/JanGorman/MapleBacon
+  SwiftyJSON:
+    :branch: xcode10.0
+    :git: https://github.com/SwiftyJSON/SwiftyJSON
+
+CHECKOUT OPTIONS:
+  ChameleonFramework:
+    :commit: 053aa81e19e35d1c20cee2858e1406938134b9bf
+    :git: https://github.com/atacand1920/Chameleon.git
+  MapleBacon:
+    :commit: f8625bb70356f1a9005e92fdb85b5df3d9319681
+    :git: https://github.com/JanGorman/MapleBacon
+  SwiftyJSON:
+    :commit: 1f37a67c6163be2561aaa1854cb921c54d1ad73c
+    :git: https://github.com/SwiftyJSON/SwiftyJSON
+
+SPEC CHECKSUMS:
+  Alamofire: c7287b6e5d7da964a70935e5db17046b7fde6568
+  ChameleonFramework: d21a3cc247abfe5e37609a283a8238b03575cf64
+  Firebase: 383fa29aca93e371cab776b48a5c66544d3c2003
+  FirebaseAnalytics: 831f1f127f4a75698e9875a87bf7e2668730d953
+  FirebaseCore: 2a84b6b325792a4319ef71ee18819dcba08d2fd7
+  FirebaseInstanceID: 78ba376fcd5b94c001f9999b2cbd3d1f1e56e78d
+  Google-Mobile-Ads-SDK: a1cbce28c0c78ca1fb0b6c4f213485f55527c99f
+  GoogleAppMeasurement: 2b3a023a61239c8d002e6e4fcf4abce8eddce0e0
+  GoogleUtilities: 760ccb53b7c7f40f9c02d8c241f76f841a7a6162
+  IQKeyboardManagerSwift: 977affaeb4d6e971975c7790a6850f31d38f1207
+  MapleBacon: 034ba14e5a0076909beabf73213cf0c2b3651076
+  MobileVLCKit: 34e17d0148c7a1af90c68c10b17b0707dc980d78
+  nanopb: 5601e6bca2dbf1ed831b519092ec110f66982ca3
+  SwiftSpinner: 3a4c6dea425e5a31b908a8b1dd5dcd1ad4d96340
+  SwiftyJSON: c29297daf073d2aa016295d5809cdd68045c39b3
+
+PODFILE CHECKSUM: 03ffb72c9188919dfda7029db9d1eff51979ba87
+
+COCOAPODS: 1.5.3

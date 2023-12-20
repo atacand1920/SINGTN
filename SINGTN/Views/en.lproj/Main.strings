@@ -1,0 +1,396 @@
+
+/* Class = "UIButton"; normalTitle = "Partner"; ObjectID = "0rv-Hi-xVb"; */
+"0rv-Hi-xVb.normalTitle" = "Partner";
+
+/* Class = "UILabel"; text = "or"; ObjectID = "1Mk-Vu-jPy"; */
+"1Mk-Vu-jPy.text" = "or";
+
+/* Class = "UITabBarItem"; title = "Invitation & chat"; ObjectID = "1cb-m7-1Op"; */
+"1cb-m7-1Op.title" = "Notifications";
+
+/* Class = "UILabel"; text = "Like"; ObjectID = "1tw-FQ-K7S"; */
+"1tw-FQ-K7S.text" = "Like";
+
+/* Class = "UILabel"; text = "label"; ObjectID = "21y-uU-0R0"; */
+"21y-uU-0R0.text" = "label";
+
+/* Class = "UILabel"; text = "Wrecking Ball"; ObjectID = "2RI-rP-JMN"; */
+"2RI-rP-JMN.text" = "Wrecking Ball";
+
+/* Class = "UITableViewSection"; headerTitle = "First Name"; ObjectID = "2b7-ZI-k9e"; */
+"2b7-ZI-k9e.headerTitle" = "First Name";
+
+/* Class = "UILabel"; text = "Thompsonashley90"; ObjectID = "35R-3k-rC8"; */
+"35R-3k-rC8.text" = "Thompsonashley90";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "4Ao-zP-75I"; */
+"4Ao-zP-75I.text" = "Label";
+
+/* Class = "UILabel"; text = "date"; ObjectID = "53b-rN-Ram"; */
+"53b-rN-Ram.text" = "date";
+
+/* Class = "UILabel"; text = "Say You Won't Let Go"; ObjectID = "5S3-zq-9ws"; */
+"5S3-zq-9ws.text" = "Say You Won't Let Go";
+
+/* Class = "UILabel"; text = "Comment"; ObjectID = "5jc-WC-GGF"; */
+"5jc-WC-GGF.text" = "Comment";
+
+/* Class = "UITextField"; placeholder = "Password"; ObjectID = "5mk-Va-htK"; */
+"5mk-Va-htK.placeholder" = "Password";
+
+/* Class = "UIButton"; normalTitle = "Login"; ObjectID = "6Nu-ye-7aB"; */
+"6Nu-ye-7aB.normalTitle" = "Login";
+
+/* Class = "UITableViewSection"; headerTitle = "Last Name"; ObjectID = "6bE-hP-pRF"; */
+"6bE-hP-pRF.headerTitle" = "Last Name";
+
+/* Class = "UILabel"; text = "Enable Push Notifcations"; ObjectID = "6sB-oD-f6T"; */
+"6sB-oD-f6T.text" = "Enable Push Notifcations";
+
+/* Class = "UIButton"; normalTitle = "Signup here!"; ObjectID = "7GH-BJ-GtK"; */
+"7GH-BJ-GtK.normalTitle" = "Signup here!";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "7qE-Qu-4s7"; */
+"7qE-Qu-4s7.text" = "Label";
+
+/* Class = "UILabel"; text = "Julia Lopez"; ObjectID = "7rG-8g-IPM"; */
+"7rG-8g-IPM.text" = "Julia Lopez";
+
+/* Class = "UILabel"; text = "Aucune publications"; ObjectID = "7vU-t6-JsG"; */
+"7vU-t6-JsG.text" = "No publications";
+
+/* Class = "UILabel"; text = "&"; ObjectID = "8FP-C9-4Qn"; */
+"8FP-C9-4Qn.text" = "&";
+
+/* Class = "UILabel"; text = "Share"; ObjectID = "8jo-ZY-tfq"; */
+"8jo-ZY-tfq.text" = "Share";
+
+/* Class = "UILabel"; text = "Aucune chanson disponible pour le moment."; ObjectID = "9RZ-7o-1Vq"; */
+"9RZ-7o-1Vq.text" = "No songs available for the moment.";
+
+/* Class = "UITextField"; placeholder = "Username"; ObjectID = "9ZY-H8-QlW"; */
+"9ZY-H8-QlW.placeholder" = "Username";
+
+/* Class = "UILabel"; text = "Hi i am saif, i am 24 years old, singing is my past time and just for fun :) :) "; ObjectID = "9rK-s2-pgG"; */
+"9rK-s2-pgG.text" = "Hi i am saif, i am 24 years old, singing is my past time and just for fun :) :) ";
+
+/* Class = "UILabel"; text = "You're new?"; ObjectID = "AIY-ZK-TNS"; */
+"AIY-ZK-TNS.text" = "You're new?";
+
+/* Class = "UIButton"; normalTitle = "Refresh?"; ObjectID = "C2F-dt-guu"; */
+"C2F-dt-guu.normalTitle" = "Refresh?";
+
+/* Class = "UILabel"; text = "Do you want to sing with the Camera on? switch on the button at top"; ObjectID = "CB5-xD-GxE"; */
+"CB5-xD-GxE.text" = "Do you want to sing with the camera opened? turn on the button at the top";
+
+/* Class = "UIButton"; normalTitle = "Complete"; ObjectID = "Cj7-y3-574"; */
+"Cj7-y3-574.normalTitle" = "Complete";
+
+/* Class = "UITableViewSection"; headerTitle = "Push Notifcation Settings"; ObjectID = "Cq5-SQ-U4P"; */
+"Cq5-SQ-U4P.headerTitle" = "Push Notifcation Settings";
+
+/* Class = "UILabel"; text = "Big thank you for 900 followers I can't believe it I love all your comments and"; ObjectID = "DbI-3e-mtp"; */
+"DbI-3e-mtp.text" = "Big thank you for 900 followers I can't believe it I love all your comments and";
+
+/* Class = "UILabel"; text = "Label Label Label Label Label Label Label Label Label Label Label"; ObjectID = "E22-se-oDn"; */
+"E22-se-oDn.text" = "Label Label Label Label Label Label Label Label Label Label Label";
+
+/* Class = "UILabel"; text = "Aucune chanson disponible pour le moment."; ObjectID = "F99-oE-Ir6"; */
+"F99-oE-Ir6.text" = "No songs available for the moment.";
+
+/* Class = "UIButton"; normalTitle = "Save"; ObjectID = "FiI-se-pnk"; */
+"FiI-se-pnk.normalTitle" = "Save";
+
+/* Class = "UILabel"; text = "Signup"; ObjectID = "GJg-dq-9wu"; */
+"GJg-dq-9wu.text" = "Signup";
+
+/* Class = "UILabel"; text = "Hi i am saif, i am 24 years old, singing is my past time and just for fun :) :) "; ObjectID = "Gh6-nk-JeM"; */
+"Gh6-nk-JeM.text" = "Hi i am saif, i am 24 years old, singing is my past time and just for fun :) :) ";
+
+/* Class = "UITabBarItem"; title = "public"; ObjectID = "HgL-Z4-8mA"; */
+"HgL-Z4-8mA.title" = "public";
+
+/* Class = "UITextField"; placeholder = "Password"; ObjectID = "HoS-0U-57n"; */
+"HoS-0U-57n.placeholder" = "Password";
+
+/* Class = "UILabel"; text = "You"; ObjectID = "I5x-hW-YBd"; */
+"I5x-hW-YBd.text" = "You";
+
+/* Class = "UILabel"; text = "107 abonnement(s)"; ObjectID = "J9r-zW-jy7"; */
+"J9r-zW-jy7.text" = "107 abonnement(s)";
+
+/* Class = "UILabel"; text = "SNL_Jill + Saif Manchester"; ObjectID = "KBM-lL-f3e"; */
+"KBM-lL-f3e.text" = "SNL_Jill + Saif Manchester";
+
+/* Class = "UITabBarItem"; title = "Profil"; ObjectID = "KBw-EC-Jo1"; */
+"KBw-EC-Jo1.title" = "Profile";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Kvv-Fz-ik0"; */
+"Kvv-Fz-ik0.text" = "Label";
+
+/* Class = "UILabel"; text = "27 abonnés"; ObjectID = "Kzh-jY-oCM"; */
+"Kzh-jY-oCM.text" = "27 abonnés";
+
+/* Class = "UILabel"; text = "Julia Lopez"; ObjectID = "L7x-r9-lhW"; */
+"L7x-r9-lhW.text" = "Julia Lopez";
+
+/* Class = "UILabel"; text = "Name"; ObjectID = "LOb-ew-j61"; */
+"LOb-ew-j61.text" = "Name";
+
+/* Class = "UITextField"; placeholder = "Birthday Date"; ObjectID = "Lld-zc-tVG"; */
+"Lld-zc-tVG.placeholder" = "Birthday Date";
+
+/* Class = "UILabel"; text = "Saif Manchester"; ObjectID = "Lv4-fi-D2n"; */
+"Lv4-fi-D2n.text" = "Saif Manchester";
+
+/* Class = "UILabel"; text = "Records"; ObjectID = "Ocw-Rr-emY"; */
+"Ocw-Rr-emY.text" = "Records";
+
+/* Class = "UILabel"; text = "Share"; ObjectID = "Ort-F7-3PG"; */
+"Ort-F7-3PG.text" = "Share";
+
+/* Class = "UILabel"; text = "27 abonnés"; ObjectID = "PAw-jT-U5X"; */
+"PAw-jT-U5X.text" = "27 abonnés";
+
+/* Class = "UIButton"; normalTitle = "Together"; ObjectID = "PbI-GR-SVs"; */
+"PbI-GR-SVs.normalTitle" = "Together";
+
+/* Class = "UILabel"; text = "Audio Filters settings"; ObjectID = "Pgi-pY-5Kt"; */
+"Pgi-pY-5Kt.text" = "Audio Filters settings";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "QFb-gb-aQ1"; */
+"QFb-gb-aQ1.text" = "Label";
+
+/* Class = "UITextView"; text = "hello nigga"; ObjectID = "QVo-2y-n0I"; */
+"QVo-2y-n0I.text" = "hello nigga";
+
+/* Class = "UILabel"; text = "Saif manchester a chanté  une partie de la chanson :"; ObjectID = "Qsf-r6-Z36"; */
+"Qsf-r6-Z36.text" = "Saif manchester a chanté  une partie de la chanson :";
+
+/* Class = "UIButton"; normalTitle = "Rejoindre"; ObjectID = "R0X-mV-nHV"; */
+"R0X-mV-nHV.normalTitle" = "Join";
+
+/* Class = "UIButton"; normalTitle = "Modifier"; ObjectID = "Tti-22-Kq7"; */
+"Tti-22-Kq7.normalTitle" = "Modify";
+
+/* Class = "UILabel"; text = "Saif manchester has shared the song of @atacand1920"; ObjectID = "UAw-pq-DuS"; */
+"UAw-pq-DuS.text" = "Saif manchester has shared the song of @atacand1920";
+
+/* Class = "UILabel"; text = "Daddy Yankee"; ObjectID = "URk-s5-1Gl"; */
+"URk-s5-1Gl.text" = "Daddy Yankee";
+
+/* Class = "UIButton"; normalTitle = "Change"; ObjectID = "Vr5-P9-dk7"; */
+"Vr5-P9-dk7.normalTitle" = "Change";
+
+/* Class = "UILabel"; text = "1"; ObjectID = "VrQ-5j-SdU"; */
+"VrQ-5j-SdU.text" = "1";
+
+/* Class = "UILabel"; text = "Saif Manchester"; ObjectID = "WpR-qh-4sG"; */
+"WpR-qh-4sG.text" = "Saif Manchester";
+
+/* Class = "UIButton"; normalTitle = "S'abonner"; ObjectID = "WqZ-7K-btJ"; */
+"WqZ-7K-btJ.normalTitle" = "Follow";
+
+/* Class = "UILabel"; text = "Julia Lopez"; ObjectID = "WtZ-3G-pig"; */
+"WtZ-3G-pig.text" = "Julia Lopez";
+
+/* Class = "UILabel"; text = "&"; ObjectID = "XzP-BT-hfE"; */
+"XzP-BT-hfE.text" = "&";
+
+/* Class = "UILabel"; text = "Dura"; ObjectID = "Y26-bV-XrG"; */
+"Y26-bV-XrG.text" = "Dura";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Y5q-aR-f0c"; */
+"Y5q-aR-f0c.text" = "Label";
+
+/* Class = "UILabel"; text = "date"; ObjectID = "YIe-5P-yVd"; */
+"YIe-5P-yVd.text" = "date";
+
+/* Class = "UILabel"; text = "Passer ma route"; ObjectID = "ZYv-oh-SE6"; */
+"ZYv-oh-SE6.text" = "Passer ma route";
+
+/* Class = "UIButton"; normalTitle = "Join Now"; ObjectID = "Zb2-ve-8Om"; */
+"Zb2-ve-8Om.normalTitle" = "Join Now";
+
+/* Class = "UIButton"; normalTitle = "Me"; ObjectID = "Zcy-t6-rjX"; */
+"Zcy-t6-rjX.normalTitle" = "Me";
+
+/* Class = "UILabel"; text = "Saif Manchester"; ObjectID = "aie-h2-2hZ"; */
+"aie-h2-2hZ.text" = "Saif Manchester";
+
+/* Class = "UILabel"; text = "Him"; ObjectID = "b5K-6e-Lgo"; */
+"b5K-6e-Lgo.text" = "Him";
+
+/* Class = "UILabel"; text = "No public records"; ObjectID = "bY7-vo-2zI"; */
+"bY7-vo-2zI.text" = "No public records";
+
+/* Class = "UILabel"; text = "Say You Won't Let Go"; ObjectID = "bw8-NA-FLo"; */
+"bw8-NA-FLo.text" = "Say You Won't Let Go";
+
+/* Class = "UILabel"; text = "Daddy Yankee"; ObjectID = "c0a-xY-JjG"; */
+"c0a-xY-JjG.text" = "Daddy Yankee";
+
+/* Class = "UIButton"; normalTitle = "Refresh?"; ObjectID = "c2f-OA-pyg"; */
+"c2f-OA-pyg.normalTitle" = "Refresh?";
+
+/* Class = "UILabel"; text = "Dura"; ObjectID = "cDU-XI-IUk"; */
+"cDU-XI-IUk.text" = "Dura";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "cqn-II-ExA"; */
+"cqn-II-ExA.text" = "Label";
+
+/* Class = "UILabel"; text = "Label Label Label Label Label Label Label Label"; ObjectID = "cw7-cb-goe"; */
+"cw7-cb-goe.text" = "Label Label Label Label Label Label Label Label";
+
+/* Class = "UIBarButtonItem"; title = "Sign out"; ObjectID = "cwm-hA-1tS"; */
+"cwm-hA-1tS.title" = "Sign out";
+
+/* Class = "UILabel"; text = "Settings"; ObjectID = "d2I-2R-Wcf"; */
+"d2I-2R-Wcf.text" = "Settings";
+
+/* Class = "UIButton"; normalTitle = "Finish"; ObjectID = "dhP-j0-n7v"; */
+"dhP-j0-n7v.normalTitle" = "Finish";
+
+/* Class = "UILabel"; text = "Passer ma route"; ObjectID = "e15-Sa-P7z"; */
+"e15-Sa-P7z.text" = "Passer ma route";
+
+/* Class = "UILabel"; text = "1"; ObjectID = "e8m-9B-Dtg"; */
+"e8m-9B-Dtg.text" = "1";
+
+/* Class = "UILabel"; text = "Together"; ObjectID = "eXr-73-oiR"; */
+"eXr-73-oiR.text" = "Together";
+
+/* Class = "UILabel"; text = "Saif manchester has shared the song of @atacand1920"; ObjectID = "efL-Zh-M7N"; */
+"efL-Zh-M7N.text" = "Saif manchester has shared the song of @atacand1920";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "gDr-BE-G1c"; */
+"gDr-BE-G1c.text" = "Label";
+
+/* Class = "UILabel"; text = "Saif Manchester"; ObjectID = "gHG-Gk-aJo"; */
+"gHG-Gk-aJo.text" = "Saif Manchester";
+
+/* Class = "UIButton"; normalTitle = "Start"; ObjectID = "gZP-M7-x1a"; */
+"gZP-M7-x1a.normalTitle" = "Start";
+
+/* Class = "UILabel"; text = "Share With"; ObjectID = "hWc-xI-gE2"; */
+"hWc-xI-gE2.text" = "Share With";
+
+/* Class = "UILabel"; text = "CalumScott t'a invité à participer : You are the reason"; ObjectID = "icc-ux-Lxd"; */
+"icc-ux-Lxd.text" = "CalumScott t'a invité à participer : You are the reason";
+
+/* Class = "UILabel"; text = "Saif Manchester"; ObjectID = "imq-sA-6f0"; */
+"imq-sA-6f0.text" = "Saif Manchester";
+
+/* Class = "UILabel"; text = "Wrecking Ball"; ObjectID = "ixh-iC-vRH"; */
+"ixh-iC-vRH.text" = "Wrecking Ball";
+
+/* Class = "UITextField"; placeholder = "Repeat password"; ObjectID = "jqN-7q-IFK"; */
+"jqN-7q-IFK.placeholder" = "Repeat password";
+
+/* Class = "UITabBarItem"; title = "Répertoire"; ObjectID = "jtM-4l-cVM"; */
+"jtM-4l-cVM.title" = "Repertory";
+
+/* Class = "UITextField"; placeholder = "First Name"; ObjectID = "kVZ-rM-eDp"; */
+"kVZ-rM-eDp.placeholder" = "First Name";
+
+/* Class = "UILabel"; text = "Comment"; ObjectID = "l68-oo-FZC"; */
+"l68-oo-FZC.text" = "Comment";
+
+/* Class = "UILabel"; text = "SNL_Jill + Saif Manchester"; ObjectID = "l9d-Z9-L8E"; */
+"l9d-Z9-L8E.text" = "SNL_Jill + Saif Manchester";
+
+/* Class = "UILabel"; text = "Julia Lopez"; ObjectID = "lz5-3M-aba"; */
+"lz5-3M-aba.text" = "Julia Lopez";
+
+/* Class = "UIButton"; normalTitle = "Verify"; ObjectID = "mq7-WB-vUy"; */
+"mq7-WB-vUy.normalTitle" = "Verify";
+
+/* Class = "UILabel"; text = "Records"; ObjectID = "n8f-fT-Soq"; */
+"n8f-fT-Soq.text" = "Records";
+
+/* Class = "UILabel"; text = "Passer ma route"; ObjectID = "nMh-y8-iJj"; */
+"nMh-y8-iJj.text" = "Passer ma route";
+
+/* Class = "UILabel"; text = "No one have followed you"; ObjectID = "ncX-kT-Ad3"; */
+"ncX-kT-Ad3.text" = "No one have followed you";
+
+/* Class = "UILabel"; text = "Passer ma route"; ObjectID = "oIS-aO-rdR"; */
+"oIS-aO-rdR.text" = "Passer ma route";
+
+/* Class = "UITableViewSection"; headerTitle = "Description"; ObjectID = "oN3-oh-Bty"; */
+"oN3-oh-Bty.headerTitle" = "Description";
+
+/* Class = "UILabel"; text = "Comments :"; ObjectID = "ofC-nu-fXU"; */
+"ofC-nu-fXU.text" = "Comments :";
+
+/* Class = "UILabel"; text = "Big thank you for 900 followers I can't believe it I love all your comments and"; ObjectID = "oxF-pS-v3Y"; */
+"oxF-pS-v3Y.text" = "Big thank you for 900 followers I can't believe it I love all your comments and";
+
+/* Class = "UINavigationItem"; title = "Audio Filters Settings"; ObjectID = "pyD-8f-f1n"; */
+"pyD-8f-f1n.title" = "Audio Filters Settings";
+
+/* Class = "UILabel"; text = "Saif Manchester"; ObjectID = "qBY-4X-Hzg"; */
+"qBY-4X-Hzg.text" = "Saif Manchester";
+
+/* Class = "UITableViewSection"; headerTitle = "Audio Filters"; ObjectID = "rEi-Hg-zRa"; */
+"rEi-Hg-zRa.headerTitle" = "Audio Filters";
+
+/* Class = "UILabel"; text = "Daddy Yankee"; ObjectID = "s16-f8-WMT"; */
+"s16-f8-WMT.text" = "Daddy Yankee";
+
+/* Class = "UILabel"; text = "Share"; ObjectID = "sIS-hv-eu8"; */
+"sIS-hv-eu8.text" = "Share";
+
+/* Class = "UIButton"; normalTitle = "Close"; ObjectID = "sdA-8P-cxz"; */
+"sdA-8P-cxz.normalTitle" = "Close";
+
+/* Class = "UITextField"; placeholder = "E-mail"; ObjectID = "t2x-LC-aE7"; */
+"t2x-LC-aE7.placeholder" = "E-mail";
+
+/* Class = "UILabel"; text = "&"; ObjectID = "tPW-zd-dPM"; */
+"tPW-zd-dPM.text" = "&";
+
+/* Class = "UILabel"; text = "Like"; ObjectID = "tQS-AN-p2x"; */
+"tQS-AN-p2x.text" = "Like";
+
+/* Class = "UIButton"; normalTitle = "Chanter"; ObjectID = "tlh-Lr-imr"; */
+"tlh-Lr-imr.normalTitle" = "Sing";
+
+/* Class = "UILabel"; text = "&"; ObjectID = "tp5-f9-4QD"; */
+"tp5-f9-4QD.text" = "&";
+
+/* Class = "UILabel"; text = ">"; ObjectID = "u2i-0w-vCY"; */
+"u2i-0w-vCY.text" = ">";
+
+/* Class = "UIBarButtonItem"; title = "Item"; ObjectID = "uNJ-wU-fEP"; */
+"uNJ-wU-fEP.title" = "Item";
+
+/* Class = "UILabel"; text = "Thompsonashley90"; ObjectID = "ub0-oi-KNB"; */
+"ub0-oi-KNB.text" = "Thompsonashley90";
+
+/* Class = "UILabel"; text = "SOLO"; ObjectID = "v8z-lp-eRE"; */
+"v8z-lp-eRE.text" = "SOLO";
+
+/* Class = "UILabel"; text = "Like"; ObjectID = "vls-uZ-Bgk"; */
+"vls-uZ-Bgk.text" = "Like";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "w6w-U4-K7o"; */
+"w6w-U4-K7o.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "wId-uH-e9o"; */
+"wId-uH-e9o.text" = "Label";
+
+/* Class = "UITableViewSection"; headerTitle = "Profil Picture"; ObjectID = "xeT-Jz-Psr"; */
+"xeT-Jz-Psr.headerTitle" = "Profile Picture";
+
+/* Class = "UILabel"; text = "107 abonnement(s)"; ObjectID = "yXY-TX-HgO"; */
+"yXY-TX-HgO.text" = "107 abonnement(s)";
+
+/* Class = "UITabBarItem"; title = "Fil d'actualité"; ObjectID = "zZe-Lt-TFx"; */
+"zZe-Lt-TFx.title" = "Friends News";
+
+/* Class = "UITextField"; placeholder = "Username"; ObjectID = "zhO-ta-sba"; */
+"zhO-ta-sba.placeholder" = "Username";
+
+/* Class = "UITextField"; placeholder = "Last Name"; ObjectID = "zzN-r5-UPt"; */
+"zzN-r5-UPt.placeholder" = "Last Name";

@@ -1,0 +1,11 @@
+framework module DKCamera {
+  umbrella header "DKCamera.h"
+
+  export *
+  module * { export * }
+}
+
+module DKCamera.Swift {
+    header "DKCamera-Swift.h"
+    requires objc
+}
